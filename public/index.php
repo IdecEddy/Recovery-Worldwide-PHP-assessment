@@ -10,9 +10,11 @@ require_once('../includes/db_connection.php');
 require_once('../includes/eateries.php');
 require_once('../includes/eatery_type.php');
 require_once('../includes/eatery_owners.php');
-
+require_once('../includes/functions.php'}; 
 ?>
-<?php 
+
+<?php
+/* 
 	function find_by_eatery($search){
 		if(!empty($search)){
 			$eateries_returned = array();
@@ -150,7 +152,7 @@ require_once('../includes/eatery_owners.php');
 
 
     
-
+*/
 ?>
 
 
